@@ -1,0 +1,4 @@
+THis is version 1 of my project 
+Second commit to change
+This is for scaping the staging area 
+ 
